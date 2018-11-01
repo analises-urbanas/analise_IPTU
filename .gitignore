@@ -1,8 +1,10 @@
 dir_path.py
 
 
-00_Criacao_TABELA.sql
 #	00_Process_IPTU.py
+#	README.md
+
+00_Criacao_TABELA.sql
 00_REG_table_iptu2016.sql
 01_Captura_head.py
 02_Analise_header.py
@@ -10,7 +12,7 @@ dir_path.py
 DOC_sql.sql
 iptu_2016
 pg2xls.py
-README.md
+
 REV_coptImporter_cuidados
 sql_script.py
 sql_scriptv2.py
