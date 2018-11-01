@@ -1,0 +1,23 @@
+dir_path.py
+
+
+00_Criacao_TABELA.sql
+#	00_Process_IPTU.py
+00_REG_table_iptu2016.sql
+01_Captura_head.py
+02_Analise_header.py
+03_Extracao_1linha.py
+DOC_sql.sql
+iptu_2016
+pg2xls.py
+README.md
+REV_coptImporter_cuidados
+sql_script.py
+sql_scriptv2.py
+__headline.csv
+__headline_nl.csv
+
+# PASTAS
+__pycache__
+QGS
+iptu_2016
